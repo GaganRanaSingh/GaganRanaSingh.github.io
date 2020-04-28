@@ -1,0 +1,84 @@
+
+body{
+    background-color: #352612;
+}
+.nav-wrapper{
+    background-color: #ffffff;
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: #ffc380;
+}
+.move{
+    margin-top: 20px;
+}
+
+.parallax-container{
+    min-height: 380px;
+    height: auto;
+}
+.icon-coffee{
+    color: #ffd54b;
+}
+.bar_bar{
+    position: relative;
+    color: #ffd54b;
+    
+}
+.bar_bar_nhi{
+    position: ;
+    color: #ffd54b;
+    
+}
+.card-coffee1{
+    background-color: #684920;
+}
+
+
+.card .card-reveal{
+     background-color: #f5db85;
+     color:#160c00;
+}
+
+.footer-one{
+background-color: #311818;
+}
+.footer-two{
+background-color: #200b0b;
+}
+
+.black_widow{
+    background-color: #352612;
+}
+
+.h1_heading_color{
+    font-family: 'Aclonica', sans-serif;
+    color: #fff7ee;
+}
+
+
+}
+.crom_heading_color{
+    font-family: 'Aclonica', sans-serif;
+    color: #311818;
+
+}
+.paragraph{
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+}
+.paragraph-dark{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(70, 51, 36);
+}
+.paragraph_card{
+    
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(5, 5, 5);
+}
+
+.btn-top{
+    background-color: rgb(204, 20, 20);
+}
+
+
